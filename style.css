@@ -48,29 +48,32 @@ button {
 	margin-top: 18px;
 }
 #name {
-	  width: 230px;
+	  max-width: 230px;
   padding: 5px 5px;
   border-radius: 2px;
   border-style: solid;
   border-width: thin;
   border-color: #dcd2d2;
+   display: block;
   
 }
 #email {
-	  width: 230px;
+	  max-width: 230px;
   padding: 5px 5px;
   border-radius: 2px;
   border-style: solid;
   border-width: thin;
   border-color: #dcd2d2;
+  display: block;
 }
 #number{
-	  width: 230px;
+	  width: 170px;
   padding: 5px 5px;
   border-radius: 2px;
   border-style: solid;
   border-width: thin;
   border-color: #dcd2d2;
+   display: block;
 }
 select {
 	margin-bottom: 20px;
