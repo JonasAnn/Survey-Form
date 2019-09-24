@@ -1,0 +1,99 @@
+body {
+	background-color: #A9D7D1;
+	font-family: 'Roboto Slab', serif;
+
+}
+#title {
+	text-align: center;
+}
+#maindiv{
+	border-radius: 5px;
+	background-color: #FAFAFA;
+	margin: auto;
+	height:auto;\
+	width:100%;
+	max-width: 800px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+#survey-form{
+	text-align: center;
+	margin-bottom: 20px;
+}
+label {
+	display: block;
+}
+.firm {
+	display: block;
+	margin-bottom: 30px;
+}
+.loud {
+	display: block;
+	margin-bottom: 70px;
+}
+.sail {
+	display: block;
+	margin-bottom: 390px;
+}
+input {
+	margin-bottom: 20px;
+}
+button {
+	background-color: #52b9ca;
+	color:white;
+	border-radius: 5px;
+	padding: 12px 25px;
+	border: none;
+	margin-top: 18px;
+}
+#name {
+	  width: 230px;
+  padding: 5px 5px;
+  border-radius: 2px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #dcd2d2;
+  
+}
+#email {
+	  width: 230px;
+  padding: 5px 5px;
+  border-radius: 2px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #dcd2d2;
+}
+#number{
+	  width: 230px;
+  padding: 5px 5px;
+  border-radius: 2px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #dcd2d2;
+}
+select {
+	margin-bottom: 20px;
+	 width: 140px;
+  padding: 7px 7px;
+  border: 2px thin #dcd2d2;
+  display: block;
+}
+textarea {
+	margin-top: 20px;
+}
+#container {
+	display: flex;
+	flex-direction: row;
+	  justify-content: space-between;
+
+}
+#form_text{
+	text-align: right;
+	width:49%;
+}
+#form_input {
+	text-align: justify;
+	width:49%;
+}
+
